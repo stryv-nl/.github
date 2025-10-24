@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,6 +9,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<p style="text-align:center"> example text </p> 
 
-## <img src="/assets/stryv-logo-text.png" height="100">
+## <p align="center"> <img src="/assets/stryv-logo-text.png" height="100"> </p>
